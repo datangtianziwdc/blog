@@ -4,8 +4,8 @@ date: 2020-04-01
 tags:
 - Getting Started
 - Icarus User Guide
-cover: /covers/vector_landscape_2.svg
-thumbnail: /covers/vector_landscape_2.svg
+cover: /covers/vector_landscape_1.svg
+thumbnail: /covers/vector_landscape_1.svg
 ---
 这是我的第一篇博客，基于Hexo搭建的，使用github托管部署，此前我对于markdown语法还不太熟悉，接下来我会发布一些对于我个人而言有帮助的解决问题的经验分享。
 <!-- more -->
