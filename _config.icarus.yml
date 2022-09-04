@@ -169,19 +169,19 @@ donates:
   # "Afdian.net" donate button configurations
   - type: afdian
     # URL to the "Afdian.net" personal page
-    url: ''
+    url: 'https://github.com/datangtianziwdc'
   # Alipay donate button configurations
   - type: alipay
     # Alipay qrcode image URL
-    qrcode: ''
+    qrcode: '/images/Alipay.jpg'
   # "Buy me a coffee" donate button configurations
   - type: buymeacoffee
     # URL to the "Buy me a coffee" page
-    url: ''
+    url: 'https://github.com/datangtianziwdc'
   # Patreon donate button configurations
   - type: patreon
     # URL to the Patreon page
-    url: ''
+    url: 'https://github.com/datangtianziwdc'
   # Paypal donate button configurations
   # -
   #     type: paypal
@@ -192,7 +192,7 @@ donates:
   # Wechat donate button configurations
   - type: wechat
     # Wechat qrcode image URL
-    qrcode: ''
+    qrcode: '/images/Wechat.jpg'
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 # share:

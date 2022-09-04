@@ -2,8 +2,10 @@
 title: 大锤的第一篇博客
 date: 2020-04-01
 tags:
-- Getting Started
-- Icarus User Guide
+- 开始
+- Icarus用户指南
+# categories:
+# - 用户 
 cover: /covers/vector_landscape_1.svg
 thumbnail: /covers/vector_landscape_1.svg
 ---
