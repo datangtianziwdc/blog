@@ -28,8 +28,14 @@ git clone https://github.com/ppoffice/hexo-theme-icarus.git themes/icarus -b <ve
 git submodule add https://github.com/ppoffice/hexo-theme-icarus.git themes/icarus
 {% endcodeblock %}
 <!-- endtab -->
+<!-- tab id:cross-chrome 'icon:fas fa-file-code' 'title:跨域浏览器配置' -->
+1.在电脑上新建一个目录，例如：`C:\ChromeDev`
+2.在属性=>目标最后加上 `--disable-web-security --user-data-dir=C:\ChromeDev`，`–user-data-dir`的值就是刚才新建的目录。
+3.点击应用、确定重新打开chrome浏览器。有`–disable-web-security`，配置成功。
+<!-- endtab -->
 
 <!-- tab active id:install-npm 'icon:fas fa-cubes' 'title:使用NPM安装' -->
+
 通过NPM安装，在项目根目录运行：
 
 {% codeblock "Shell" %}
